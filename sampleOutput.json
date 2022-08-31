@@ -1,0 +1,206 @@
+{
+  "status": "ok",
+  "totalResults": 38,
+  "articles": [
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": null,
+      "title": "Get all the best Amazon Prime Day clothing deals right now - CNN Underscored",
+      "description": "Prime Day is finally here. You may associate Amazon Prime Day with tech, electronic and gadget sales, but the great deals stretch into clothing, accessories, beauty, footwear and everything in between. Whether you’re looking for back-to-school basics for the …",
+      "url": "https://www.cnn.com/cnn-underscored/deals/best-clothing-deals-amazon-prime-day-2022",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/underscored-prime-day-2022-article-lead-image-clothing.jpg?q=w_800,c_fill",
+      "publishedAt": "2022-07-12T16:27:00Z",
+      "content": "Want more deals? Visit CNN Underscoreds Guide to Amazon Prime Day for wall-to-wall coverage of the best discounts to be found during this massive sale.\r\nAmazon Prime Day is finally here. You may asso… [+1491 chars]"
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "Mary Kekatos",
+      "title": "James Webb live updates: NASA reveals 5 stunning, new images from telescope - ABC News",
+      "description": "",
+      "url": "https://abcnews.go.com/ABCNews/live-updates/james-webb-images/?id=86597864",
+      "urlToImage": "https://s.abcnews.com/images/Technology/webb-5-ht-ps-220712_1657638972237_hpMain_2_16x9_1600.jpg",
+      "publishedAt": "2022-07-12T16:05:00Z",
+      "content": "NASA revealed the difference in images taken by the James Webb Space Telescope, the first of which were revealed Tuesday, and its predecessor, the Hubble Space Telescope.\r\nIn a tweet, the space agenc… [+496 chars]"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Timothy Bella",
+      "title": "Elon Musk says Trump should 'hang up his hat and sail into the sunset' - The Washington Post",
+      "description": "Musk responded to a video of Trump claiming Saturday that the billionaire Tesla CEO lied about voting for the former Republican president.",
+      "url": "https://www.washingtonpost.com/politics/2022/07/12/elon-musk-trump-twitter-president-2024/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/H7K4F3QBMII63C7LFNHEQGYVAA.jpg&w=1440",
+      "publishedAt": "2022-07-12T15:59:24Z",
+      "content": "Comment on this story\r\nDays after former president Donald Trump claimed Elon Musk lied about voting for him, the billionaire Tesla chief executive said Monday that Trump should hang up his hat and sa… [+5307 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Sandra Gonzalez, CNN",
+      "title": "'Succession' and 'Ted Lasso' dominate major categories in Emmy nominations - CNN",
+      "description": "It was a good morning for the cast and creative teams of \"Succession\" and \"Ted Lasso.\"",
+      "url": "https://www.cnn.com/2022/07/12/entertainment/emmy-awards-2022-nominations/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/211012181811-01-succession-season-3-episode-1-super-tease.jpg",
+      "publishedAt": "2022-07-12T15:59:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": "Scott Gleeson and Maria Puente, USA TODAY",
+      "title": "Jill Biden's 'breakfast tacos' comment: FLOTUS responds to backlash - USA TODAY",
+      "description": "Jill Biden says she has \"pure admiration and love for the Latino community\" after she was criticized for comments during a speech in San Antonio.",
+      "url": "https://www.usatoday.com/story/entertainment/celebrities/2022/07/12/jill-biden-breakfast-tacos-speech-backlash/10035923002/",
+      "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/12/USAT/f03ac181-938f-415c-bb39-cdd21928ad34-AP_Biden.jpg?auto=webp&crop=5410,3043,x0,y146&format=pjpg&width=1200",
+      "publishedAt": "2022-07-12T15:45:00Z",
+      "content": "First lady Jill Biden has responded to backlash after saying Texas Latinos are as \"unique\" as \"breakfast tacos\" in a speech in San Antonio to the nation's largest Hispanic civil rights and advocacy o… [+3311 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Ryan Browne",
+      "title": "OnePlus co-founder makes smartphone comeback with a quirky iPhone competitor - CNBC",
+      "description": "Nothing, the hardware venture of OnePlus co-founder Carl Pei, officially pulled the wraps off its first smartphone Tuesday.",
+      "url": "https://www.cnbc.com/2022/07/12/nothing-phone-1-oneplus-co-founder-carl-pei-makes-smartphone-comeback.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107087430-1657632100500-NOTHING_PHONE_1_BLACK.JPG?v=1657632147&w=1920&h=1080",
+      "publishedAt": "2022-07-12T15:32:24Z",
+      "content": "The co-founder of Chinese smartphone brand OnePlus, Carl Pei, is back with a new handset only this time it's with a different company, literally called Nothing.\r\nPei's peculiarly named start-up offic… [+4318 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Rosa Flores, Rosalina Nieves",
+      "title": "Uvalde school shooting hallway video showing delayed police response will be released to victims' families Sunday - CNN",
+      "description": "The Texas House committee investigating the Uvalde school shooting plans to release hallway surveillance of the police response to the massacre to victims' families on Sunday and to the public soon thereafter, state Rep. Dustin Burrows said on Twitter.",
+      "url": "https://www.cnn.com/2022/07/12/us/uvalde-school-shooting-video/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220706163236-robb-elementary-school-file-060322.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2022-07-12T15:05:00Z",
+      "content": "The Texas House committee investigating the Uvalde school shooting plans to release hallway surveillance of the police response to the massacre to victims families on Sunday and to the public soon th… [+5217 chars]"
+    },
+    {
+      "source": { "id": null, "name": "NASA" },
+      "author": null,
+      "title": "NASA's Webb Captures Dying Star's Final 'Performance' in Fine Detail - NASA",
+      "description": "NASA’s James Webb Space Telescope has revealed details of the Southern Ring planetary nebula that were previously hidden from astronomers. Planetary nebulae are the shells of gas and dust ejected from dying stars.",
+      "url": "https://www.nasa.gov/image-feature/goddard/2022/nasa-s-webb-captures-dying-star-s-final-performance-in-fine-detail/",
+      "urlToImage": "http://www.nasa.gov/sites/default/files/thumbnails/image/main_image_stellar_death_s_ring_miri_nircam_sidebyside-5mb.jpg",
+      "publishedAt": "2022-07-12T15:04:28Z",
+      "content": null
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": null,
+      "title": "Fresh US Inflation Peak to Keep Fed on Aggressive Rate Path - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=eaca13c8-0203-11ed-8c04-4c6f77656767&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNy0xMi9mcmVzaC11cy1pbmZsYXRpb24tcGVhay10by1rZWVwLWZlZC1vbi1hZ2dyZXNzaXZlLXJhdGUtcGF0aA==",
+      "urlToImage": null,
+      "publishedAt": "2022-07-12T14:58:22Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "U.S. military: ISIS leader in Syria killed in drone strike - Reuters.com",
+      "description": "The leader of Islamic State in Syria, one of the top five leaders of the militant group, has been killed in a U.S. air strike, the U.S. military said on Tuesday.",
+      "url": "https://www.reuters.com/world/middle-east/isis-leader-syria-killed-us-strike-us-officials-say-2022-07-12/",
+      "urlToImage": "https://www.reuters.com/resizer/wq1NHvo0sSCiBZUXNffnD2Y4FkA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JOP4NIMM7ROLXHAUIQCYX3HG5M.jpg",
+      "publishedAt": "2022-07-12T14:49:00Z",
+      "content": "WASHINGTON, July 12 (Reuters) - The leader of Islamic State in Syria, one of the top five leaders of the militant group, has been killed in a U.S. air strike, the U.S. military said on Tuesday.\r\nIn a… [+2580 chars]"
+    },
+    {
+      "source": { "id": "reuters", "name": "Reuters" },
+      "author": null,
+      "title": "Japan bids sombre farewell to slain Shinzo Abe, its longest-serving premier - Reuters.com",
+      "description": "With prayers, flowers and flags draped in black ribbons, Japan on Tuesday said farewell to Shinzo Abe, a polarising figure who dominated politics as the country's longest-serving premier, before being gunned down at a campaign rally last week.",
+      "url": "https://www.reuters.com/world/asia-pacific/japan-readies-sombre-farewell-slain-abe-its-longest-serving-premier-2022-07-12/",
+      "urlToImage": "https://www.reuters.com/resizer/CuFU9cF1mYmSbBUguKLgQQldRWA=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O5F2NCJSUFKBDD5XSWFQPIG2AA.jpg",
+      "publishedAt": "2022-07-12T14:44:00Z",
+      "content": "TOKYO, July 12 (Reuters) - With prayers, flowers and flags draped in black ribbons, Japan on Tuesday said farewell to Shinzo Abe, a polarising figure who dominated politics as the country's longest-s… [+5310 chars]"
+    },
+    {
+      "source": { "id": "the-verge", "name": "The Verge" },
+      "author": "Alice Newcome-Beill",
+      "title": "Amazon Prime Day 2022: best gaming deals for Playstation, Xbox, and Nintendo Switch - The Verge",
+      "description": "Prime Day is here, and it’s bringing the heat with some of the best deals on gaming tech, like keyboards, mice, headsets, and more.",
+      "url": "https://www.theverge.com/23198918/amazon-prime-day-best-pc-playstation-xbox-switch-gaming-game-deals-2022",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/TAK7FJre9YaGgkRdR8dd6vEWnQg=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/15992532/acastro_190208_3223_game_streaming.jpg",
+      "publishedAt": "2022-07-12T14:17:14Z",
+      "content": "Some of the best prices ever on gaming tech\r\nIf you buy something from a Verge link, Vox Media may earn a commission. See our ethics statement.\r\nThe best deals on games and accessories you can find o… [+6157 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CBS Sports" },
+      "author": "",
+      "title": "Tiger Woods rips LIV Golf players who 'turned their backs' on sport by choosing cash over major championships - CBS Sports",
+      "description": "Woods had been more measured when discussing the rival league ... until Tuesday at St. Andrews",
+      "url": "https://www.cbssports.com/golf/news/tiger-woods-rips-liv-golf-players-who-turned-their-backs-on-sport-by-choosing-cash-over-major-championships/",
+      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/07/12/8e8eaf1c-5aa5-4399-b307-2291dd29c215/thumbnail/1200x675/15b0008d659b9aab455d9c9983b7b26e/tiger-woods-2022-open.jpg",
+      "publishedAt": "2022-07-12T14:01:16Z",
+      "content": "ST. ANDREWS, Scotland -- The one voice that has been somewhat absent from the week-to-week PGA Tour-LIV Golf conversation has been perhaps the most important voice in golf. Tiger Woods on Tuesday, ah… [+4369 chars]"
+    },
+    {
+      "source": { "id": null, "name": "New York Times" },
+      "author": "Jenny Gross",
+      "title": "London's Heathrow Airport Says It Will Limit Passengers for the Summer - The New York Times",
+      "description": "Facing staff shortages that have significantly constrained capacity, the airport’s chief executive asked airlines to stop selling tickets until September.",
+      "url": "https://www.nytimes.com/2022/07/12/business/heathrow-airport-delays.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/07/12/business/12economy-briefing-heathrow1/12economy-briefing-heathrow1-facebookJumbo.jpg",
+      "publishedAt": "2022-07-12T13:59:59Z",
+      "content": "When asked how Heathrow would enforce the capacity limit, a spokeswoman for the airport, Hannah Smith, said that this would be overseen by an independent coordinator, Airport Coordination Limited.\r\nT… [+850 chars]"
+    },
+    {
+      "source": { "id": null, "name": "ESPN" },
+      "author": "Kristen Shilton, Greg Wyshynski",
+      "title": "NHL free agency 2022 preview - Team needs, trade targets, salary-cap space, key dates - ESPN",
+      "description": "Here's a rundown of every team's outlook, including players hitting free agency, cap space and signings and trades each team should make.",
+      "url": "https://www.espn.com/nhl/insider/insider/story/_/id/34225954/nhl-free-agency-2022-preview-team-needs-trade-targets-cap-space-key-dates",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0712%2Fr1035432_1296x729_16%2D9.jpg",
+      "publishedAt": "2022-07-12T13:42:48Z",
+      "content": "NHL free agency officially begins on Wednesday at noon ET, but it's already been an absolutely wild offseason in hockey.\r\nWith the salary cap rising by only $1 million from last season, teams have be… [+46695 chars]"
+    },
+    {
+      "source": { "id": null, "name": "CNBC" },
+      "author": "Holly Ellyatt, Natasha Turak",
+      "title": "With tanks and artillery, Russia intensifies attacks on east Ukraine; gas supply concerns deepen as pipeline is shut down - CNBC",
+      "description": "Ukrainian forces are trying to repel Russian tanks, cannon and artillery attacks and the death toll from a Russian strike on an apartment block has risen.",
+      "url": "https://www.cnbc.com/2022/07/12/russian-ukraine-war-updates.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107087271-1657607131696-gettyimages-1241844355-AFP_32E94JH.jpeg?v=1657607535&w=1920&h=1080",
+      "publishedAt": "2022-07-12T13:34:00Z",
+      "content": "The European Union has so far frozen 13.8 billion euros ($13.87 billion) of assets belonging to Russian oligarchs and other sanctioned individuals and entities, according to one of the bloc's officia… [+791 chars]"
+    },
+    {
+      "source": { "id": null, "name": "The Cut" },
+      "author": "Olivia Truffaut-Wong",
+      "title": "Twitter Reacts to Lea Michele's 'Funny Girl' Casting - The Cut",
+      "description": "The D-R-A-M-A!",
+      "url": "http://www.thecut.com/2022/07/twitter-reacts-to-lea-micheles-funny-girl-casting.html",
+      "urlToImage": "https://pyxis.nymag.com/v1/imgs/81a/5d8/d3ce257577cdbc202f710f85ccd4705a33-lea-michele.1x.rsocial.w1200.jpg",
+      "publishedAt": "2022-07-12T12:40:00Z",
+      "content": "From today onward, American pop-culture history will be divided into two parts: before Lea Michele was cast in Broadways Funny Girl revival, and after. On Monday, the Broadway production announced th… [+5635 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KOCO Oklahoma City" },
+      "author": "KOCO Staff",
+      "title": "Navy sailor from Oklahoma found dead on aircraft carrier in San Diego - KOCO Oklahoma City",
+      "description": "Authorities identified a U.S. Navy sailor from Oklahoma who died on an aircraft carrier over the weekend in California.",
+      "url": "https://www.koco.com/article/oklahoma-navy-sailor-dies-darren-collins-uss-carl-vinson/40586614",
+      "urlToImage": "https://kubrick.htvapps.com/vidthumb/1961e585-33e9-4679-95e1-5d5af6c62bd5/1961e585-33e9-4679-95e1-5d5af6c62bd5_image.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+      "publishedAt": "2022-07-12T12:35:00Z",
+      "content": "SAN DIEGO —Authorities identified a U.S. Navy sailor from Oklahoma who died on an aircraft carrier over the weekend in California.\r\nInformation Systems Technician 2nd Class Darren Collins died around… [+761 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Rong-Gong Lin II, Luke Money",
+      "title": "Stunning spread of BA.5 shows why this California COVID wave is so different - Yahoo News",
+      "description": "Compared with its ancestors, the latest Omicron subvariant, BA.5, may have an enhanced ability to create a numerous copies of the coronavirus once it gets...",
+      "url": "https://news.yahoo.com/stunning-spread-ba-5-subvariant-120007119.html",
+      "urlToImage": "https://s.yimg.com/uu/api/res/1.2/UZKikf6xHJGbPJXsMx0m5A--~B/aD01NjA7dz04NDA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/la_times_articles_853/9847fd171a7a05fe7cb88e989d2fc534",
+      "publishedAt": "2022-07-12T12:00:07Z",
+      "content": "People attend Mass at the Cathedral of Our Lady of the Angels in downtown L.A. To reduce risk during the COVID wave, the public is urged to get vaccinated and boostered, to get tested before attendin… [+9309 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Zahid Mahmood, CNN",
+      "title": "Long-distance running legend Mo Farah tells the BBC he was illegally trafficked to the UK as a child - CNN",
+      "description": "Long distance running legend Mo Farah has told the BBC that he was trafficked into the UK as a child and forced to work as a domestic servant.",
+      "url": "https://www.cnn.com/2022/07/11/uk/mo-farah-bbc-intw-intl/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220711142334-mo-farah-2021-super-tease.jpg",
+      "publishedAt": "2022-07-12T11:33:00Z",
+      "content": null
+    }
+  ]
+}
